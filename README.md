@@ -37,6 +37,6 @@
 2) FreaKy FranKIMstein - SwanSong
 3) Frankenstein 3.6 - Little Feller
 
-Универсальный пресет — Marinara's Spaghetti Recipe (4)
-
-Версия яблока с тогглами из других пресетов от 𖣂Tb #70/89 — мамина радость
+> Универсальный пресет — Marinara's Spaghetti Recipe (4)
+> 
+> Версия яблока с тогглами из других пресетов от 𖣂Tb #70/89 — мамина радость
